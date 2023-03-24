@@ -17,6 +17,7 @@ To develop the prototype, assume the following:
 - The average monthly household income for each credit union member is $12,000.
 
 - Each credit union member has a savings portfolio that consists of a cryptocurrency wallet, stocks, and bonds.
+- use the valuations for the cryptocurrency wallet and for the stock and bond portions of the portfolio to determine if the credit union member has enough savings to build an emergency fund into their financial plan.
 
 
 ## Part 2: Create a Financial Planner for Retirement
