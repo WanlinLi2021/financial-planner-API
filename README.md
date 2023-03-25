@@ -21,3 +21,8 @@ To develop the prototype, assume the following:
 
 
 ## Part 2: Create a Financial Planner for Retirement
+
+We’ll use the Alpaca API to get historical closing prices for a retirement portfolio. We’ll then run Monte Carlo simulations to forecast the portfolio performance 30 years, 10 years, 5 years from now. 
+
+- Create the Monte Carlo Simulation
+- Analyze the Retirement Portfolio Forecasts
